@@ -1,0 +1,30 @@
+.subheader {
+  width: 100%;
+  height: 30px;
+  background-color: #58505d;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  gap: 800px;
+}
+.subheader__time {
+  color: white;
+  margin-top: 4px;
+}
+.subheader__social {
+  color: white;
+  margin-top: 4px;
+  display: flex;
+  flex-direction: row;
+  width: 300px;
+}
+.subheader__social__visit {
+  width: 150px;
+}
+.subheader__social__icons {
+  display: flex;
+  flex-direction: row;
+  width: 100px;
+  justify-content: space-between;
+  margin-top: 4px;
+}

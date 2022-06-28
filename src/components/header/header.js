@@ -9,7 +9,17 @@ export const Header = () => {
           alt=""
         />
       </div>
-      <div className="header__options"></div>
+      <div className="header__options">
+        <h6>Home</h6>
+        <h6>About Us</h6>
+        <h6>Our Services</h6>
+        <h6>Publications</h6>
+        <h6>Partners</h6>
+        <h6>Contact Us</h6>
+      </div>
+      <div className="header__search">
+        <i class="fa-solid fa-magnifying-glass"></i>
+      </div>
     </div>
   );
 };

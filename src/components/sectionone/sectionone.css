@@ -1,0 +1,178 @@
+.sectionone {
+  width: 100%;
+  height: 1200px;
+  background-color: #fbfbfb;
+  position: relative;
+}
+
+.sectionone__first {
+  width: 100%;
+  height: 180px;
+  background-color: #fbfbfb;
+}
+.sectionone__first__top {
+  color: black;
+  font-size: 1.2rem;
+  margin-left: 670px;
+  padding-top: 30px;
+}
+.sectionone__first__bottom {
+  margin-left: 500px;
+  padding-top: 15px;
+  font-size: 3rem;
+  color: #58505d;
+}
+span {
+  color: #92cebf;
+}
+.sectionone__second {
+  width: 100%;
+  height: 300px;
+  background-color: #fbfbfb;
+  position: relative;
+}
+.sectionone__background {
+  width: 100%;
+  height: 97%;
+  object-fit: cover;
+}
+.sectionone__container {
+  width: 100%;
+  position: absolute;
+  top: 2%;
+  left: 0%;
+
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+}
+.container {
+  box-shadow: 3px 10px 20px rgba(0, 0, 0, 0.2);
+  width: 320px;
+  height: 280px;
+  text-align: center;
+}
+.otherbutton {
+  background-color: whitesmoke;
+  border: none;
+  color: black;
+  padding: 15px 50px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.text {
+  padding-top: 20px;
+  display: block;
+}
+.texttwo {
+  padding-top: 20px;
+  display: block;
+  color: black;
+}
+
+.textthree {
+  padding-top: 20px;
+  display: block;
+  color: purple;
+}
+.sectionone__third {
+  width: 100%;
+  height: 1000px;
+  position: relative;
+  display: flex;
+}
+.sectionone__third__background {
+  width: 100%;
+  height: 97%;
+  object-fit: cover;
+}
+.sectionone__third__left {
+  width: 50%;
+
+  height: 1000px;
+  position: absolute;
+}
+.sectionone__left__background {
+  width: 100%;
+  height: 90%;
+  position: absolute;
+  object-fit: cover;
+  top: -30px;
+  left: -25px;
+}
+.sectionone__third__right {
+  width: 50%;
+
+  height: 1000px;
+  position: absolute;
+  left: 50%;
+}
+.rec {
+  position: absolute;
+  left: -55px;
+  top: 70px;
+  width: 200px;
+}
+.sectionone__third__small {
+  padding-left: 160px;
+  padding-top: 63px;
+  display: block;
+  color: #89838d;
+}
+.one {
+  color: #5d5562;
+  padding-top: 20px;
+  font-size: 40px;
+  padding-left: 110px;
+}
+.two {
+  color: #92cebf;
+  padding-top: 10px;
+  font-size: 40px;
+  padding-left: 110px;
+}
+.three {
+  color: #aca8ae;
+  padding-top: 10px;
+
+  padding-left: 110px;
+}
+.btn {
+  background-color: white;
+  border: none;
+  color: #92cebf;
+  padding: 20px 100px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-left: 110px;
+  margin-top: 50px;
+  border: 1px solid #92cebf;
+}
+.hr {
+  width: 600px;
+  color: #92cebf;
+  margin-top: 20px;
+}
+.stats {
+  width: 100%;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+.numbers {
+  font-size: 60px;
+  margin-left: 30px;
+}
+.infos {
+  width: 200px;
+  text-align: center;
+}
+.numbers__three {
+  margin-left: 50px;
+  font-size: 60px;
+}

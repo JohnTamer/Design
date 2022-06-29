@@ -5,6 +5,7 @@ import { Reshap } from "./components/reshape/reshap";
 import { SectionOne } from "./components/sectionone/sectionone";
 import { WorkWithUs } from "./components/workwithus/workwithus";
 import { WorkFor } from "./components/workfor/workfor";
+import { Gallery } from "./components/gallery/gallery";
 export const App = () => {
   return (
     <div className="App">
@@ -14,6 +15,7 @@ export const App = () => {
       <SectionOne />
       <WorkWithUs />
       <WorkFor />
+      <Gallery />
     </div>
   );
 };

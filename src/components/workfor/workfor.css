@@ -1,0 +1,45 @@
+.workfor {
+  width: 100%;
+  height: 400px;
+
+  position: relative;
+}
+.workfor__bg {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  object-fit: cover;
+}
+.workfor__container {
+  position: relative;
+  display: flex;
+  width: 100%;
+  height: 250px;
+  flex-direction: column;
+}
+.workfor__container__one {
+  font-size: 40px;
+  color: white;
+  margin-left: 150px;
+  margin-top: 80px;
+}
+.workfor__container__two {
+  color: white;
+  margin-left: 150px;
+  margin-top: 10px;
+  width: 40%;
+}
+.btnthree {
+  background-color: #e2e7f3;
+  border: none;
+  color: white;
+  padding: 20px 100px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-left: 150px;
+  margin-top: 20px;
+  border: 1px solid white;
+  position: relative;
+}

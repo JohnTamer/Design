@@ -4,6 +4,7 @@ import { Subheader } from "./components/subheader/subheader";
 import { Reshap } from "./components/reshape/reshap";
 import { SectionOne } from "./components/sectionone/sectionone";
 import { WorkWithUs } from "./components/workwithus/workwithus";
+import { WorkFor } from "./components/workfor/workfor";
 export const App = () => {
   return (
     <div className="App">
@@ -12,6 +13,7 @@ export const App = () => {
       <Reshap />
       <SectionOne />
       <WorkWithUs />
+      <WorkFor />
     </div>
   );
 };

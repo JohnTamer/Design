@@ -8,14 +8,10 @@
 .experience__left {
   width: 60%;
   height: 700px;
-  background-color: aqua;
+  /* background-color: aqua; */
   position: relative;
 }
-.experience__right {
-  width: 40%;
-  height: 700px;
-  background-color: red;
-}
+
 .experience__rec {
   position: absolute;
   padding-top: 50px;
@@ -44,8 +40,8 @@
   margin-left: 210px;
   margin-top: 30px;
   width: 600px;
-  height: 300px;
-  background-color: black;
+  height: 200px;
+  /* background-color: black; */
 }
 .experience__container__a1 {
   width: 150px;
@@ -80,4 +76,24 @@
   left: 530px;
   padding-left: 37px;
   position: absolute;
+}
+.btnfive {
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin-top: 20px;
+  margin-left: 210px;
+}
+.experience__right {
+  width: 40%;
+  height: 700px;
+  /* background-color: red; */
+  position: relative;
+}
+.experience__right__img {
+  position: absolute;
+  object-fit: cover;
+  width: 100%;
+  top: -20px;
 }

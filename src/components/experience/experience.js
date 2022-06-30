@@ -52,8 +52,15 @@ export const Experience = () => {
             alt=""
           />
         </div>
+        <button className="btnfive">SHOW OUR CLIENTS</button>
       </div>
-      <div className="experience__right"></div>
+      <div className="experience__right">
+        <img
+          className="experience__right__img"
+          src={require("../../assets/images/img-experience.png")}
+          alt=""
+        />
+      </div>
     </div>
   );
 };

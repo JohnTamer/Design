@@ -36,6 +36,21 @@ export const Experience = () => {
             src={require("../../assets/images/a3.png")}
             alt=""
           />
+          <img
+            className="experience__container__a4"
+            src={require("../../assets/images/a4.png")}
+            alt=""
+          />
+          <img
+            className="experience__container__a5"
+            src={require("../../assets/images/a5.png")}
+            alt=""
+          />
+          <img
+            className="experience__container__a6"
+            src={require("../../assets/images/a4.png")}
+            alt=""
+          />
         </div>
       </div>
       <div className="experience__right"></div>

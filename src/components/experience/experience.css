@@ -61,3 +61,23 @@
   height: 100px;
   padding-left: 30px;
 }
+.experience__container__a4 {
+  padding-top: 20px;
+  width: 150px;
+  height: 50px;
+}
+.experience__container__a5 {
+  padding-top: 20px;
+  width: 150px;
+  height: 50px;
+  padding-left: 30px;
+  position: absolute;
+}
+.experience__container__a6 {
+  padding-top: 20px;
+  width: 150px;
+  height: 50px;
+  left: 530px;
+  padding-left: 37px;
+  position: absolute;
+}

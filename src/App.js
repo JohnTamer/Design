@@ -8,6 +8,7 @@ import { WorkFor } from "./components/workfor/workfor";
 import { Gallery } from "./components/gallery/gallery";
 import { Experience } from "./components/experience/experience";
 import { Publication } from "./components/publications/publication";
+import { Footer } from "./components/footer/footer";
 export const App = () => {
   return (
     <div className="App">
@@ -20,6 +21,7 @@ export const App = () => {
       <Gallery />
       <Experience />
       <Publication />
+      <Footer />
     </div>
   );
 };

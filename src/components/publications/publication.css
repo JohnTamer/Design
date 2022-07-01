@@ -3,3 +3,36 @@
   height: 500px;
   background-color: blue;
 }
+.publication__one {
+  margin-top: 30px;
+  text-align: center;
+  font-size: 50px;
+  color: #58505d;
+}
+.publication__text {
+  display: inline-block;
+  margin-left: 1px;
+  color: #93cfc0;
+}
+.publication__container {
+  width: 100%;
+  height: 300px;
+  margin-top: 30px;
+  background-color: black;
+  display: flex;
+}
+
+.publication__div {
+  width: 100%;
+  height: 80%;
+  display: flex;
+  justify-content: space-evenly;
+  position: relative;
+}
+
+.publication__img {
+  width: 90%;
+  aspect-ratio: 1/0.55;
+  object-fit: cover;
+  position: absolute;
+}

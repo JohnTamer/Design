@@ -7,6 +7,7 @@ import { WorkWithUs } from "./components/workwithus/workwithus";
 import { WorkFor } from "./components/workfor/workfor";
 import { Gallery } from "./components/gallery/gallery";
 import { Experience } from "./components/experience/experience";
+import { Publication } from "./components/publications/publication";
 export const App = () => {
   return (
     <div className="App">
@@ -18,6 +19,7 @@ export const App = () => {
       <WorkFor />
       <Gallery />
       <Experience />
+      <Publication />
     </div>
   );
 };

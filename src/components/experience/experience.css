@@ -78,12 +78,14 @@
   position: absolute;
 }
 .btnfive {
-  color: #ffffff;
+  color: #99d1c3;
   font-size: 20px;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
   margin-top: 20px;
   margin-left: 210px;
+  background-color: white;
+  border-color: #99d1c3;
 }
 .experience__right {
   width: 40%;

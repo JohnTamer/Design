@@ -1,7 +1,7 @@
 .footer {
   width: 100%;
   height: 450px;
-  background-color: blue;
+  /* background-color: blue; */
   margin-top: -50px;
   display: flex;
 }
@@ -24,19 +24,19 @@
   width: 60%;
   height: 25%;
   margin-left: 115px;
-  color: red;
+  color: black;
 }
 .footer__left__word {
   width: 60%;
 
   margin-left: 115px;
-  color: red;
+  color: black;
 }
 .footer__left__para {
   width: 60%;
   height: 10%;
   margin-left: 115px;
-  color: red;
+  color: black;
 }
 
 .footer__input {

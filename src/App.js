@@ -9,6 +9,7 @@ import { Gallery } from "./components/gallery/gallery";
 import { Experience } from "./components/experience/experience";
 import { Publication } from "./components/publications/publication";
 import { Footer } from "./components/footer/footer";
+import { SubFooter } from "./components/subfooter/subfooter";
 export const App = () => {
   return (
     <div className="App">
@@ -22,6 +23,7 @@ export const App = () => {
       <Experience />
       <Publication />
       <Footer />
+      <SubFooter />
     </div>
   );
 };
